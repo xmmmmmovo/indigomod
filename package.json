@@ -1,7 +1,7 @@
 {
-  "name": "indigo_pro",
-  "version": "1.8.5",
-  "description": "Material Design theme for Hexo.",
+  "name": "indigo_mod",
+  "version": "1.0.0",
+  "description": "Mod from ivitan",
   "keywords": [
     "hexo",
     "theme",
@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "repository": {
-    "url": "git+https://github.com/ivitan/indigo.git",
+    "url": "git+https://github.com/xmmmmmovo/indigomod.git",
     "type": "git"
   }
 }

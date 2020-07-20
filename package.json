@@ -1,0 +1,19 @@
+{
+  "name": "indigo_pro",
+  "version": "1.8.5",
+  "description": "Material Design theme for Hexo.",
+  "keywords": [
+    "hexo",
+    "theme",
+    "material design"
+  ],
+  "author": {
+    "name": "Vitan",
+    "email": "vitan.me@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/ivitan/indigo.git",
+    "type": "git"
+  }
+}

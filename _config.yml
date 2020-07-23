@@ -89,7 +89,14 @@ cnzz: false
 baidu_tongji: false
 
 # 腾讯分析，如要开启，输入站点id
-tajs: 
+tajs: false
+
+# echarts
+echarts: true
+
+# 腾讯移动分析
+mta: 
+  sid: 500725321
 
 # google
 google_analytics: false
@@ -119,10 +126,10 @@ gitment: false
 
 # use gitalk://github.com/gitalk/gitalk
 gitalk:
- owner: 
- repo: 
- client_id: 
- client_secret: 
+ owner: xmmmmmovo
+ repo: xmmmmmovo.github.io
+ client_id: 6f5b3e73c6c988a1d4a7
+ client_secret: 9bd70bb9c8873b4dfad85de907470b470c849df5
 
 # Valine Comment system. https://valine.js.org
 valine:
@@ -171,5 +178,5 @@ cdn: false
 lightbox: true
 
 # icp备案号  ICP_license: 京ICP备1234556号-1
-ICP_license: 
+ICP_license: 鲁ICP备20025683号-1
 

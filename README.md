@@ -15,3 +15,4 @@
 
 - 添加echarts
 - 更改taji至mta
+- 添加traveling

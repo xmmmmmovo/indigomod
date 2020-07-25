@@ -174,6 +174,8 @@ visit_counter:
 # 如果想让你的自定义样式生效，把此项设为 false
 cdn: true
 
+travelling: true
+
 # 设置为 true 将使用 lightbox render 图片
 lightbox: true
 

@@ -9,7 +9,7 @@ hexo.extend.helper.register('theme_version', () => version)
 const source = (path, cache, ext) => {
     if (cache) {
         const minFile = `${path}${ext === '.js' ? '.min' : ''}${ext}`
-        return hexo.theme.config.cdn ? `//cdn.jsdelivr.net/gh/${author.name}/${name}@${version}/dist${minFile}` : `${minFile}?v=${version}`
+        return hexo.theme.config.cdn ? `//cdn.jsdelivr.net/gh/${author.name}/${name}/dist${minFile}` : `${minFile}?v=${version}`
     } else {
         return path + ext
     }
